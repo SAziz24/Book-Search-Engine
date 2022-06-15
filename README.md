@@ -29,6 +29,8 @@ THEN I am presented with several search results, each featuring a book’s title
 WHEN I click on the Login/Signup menu option
 
 ## Mock-Up
+![This is the homepage layout](./client/public/PICOFBOOKS.PNG)
+
 
 
 ## Heroku Deployed
